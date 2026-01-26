@@ -80,7 +80,7 @@ const locations = {
     },
     {
       "name": "Baseball Bat",
-      "description": "In Hirschmueller's office"
+      "description": "In Hirschmueller's office; Under the counter of the coat-check, just inside the club entrance (after the security check)"
     },
     {
       "name": "Hackl 9R",
@@ -138,6 +138,10 @@ const locations = {
     }
   ],
   "Colorado": [
+    {
+      "name": "Bartoli 12G",
+      "description": "In the server room within the house"
+    },
     {
       "name": "Bartoli 75R",
       "description": "On the table in the barn"
