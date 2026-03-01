@@ -33,7 +33,7 @@ const weaponsData = {
         "rarity": "Rare"
     },
     "Claw Hammer": {
-        "rarity": "Tool"
+        "rarity": "Common"
     },
     "DAK DTI": {
         "rarity": "Rare"
