@@ -380,7 +380,7 @@ const locations = {
     },
     {
       "name": "Shashka A33",
-      "description": "Carried by some military/elite soldiers and military officers"
+      "description": "Carried by some military/elite soldiers and military officers; In the school armory"
     },
     {
       "name": "Tactical Bartoli 12G",
